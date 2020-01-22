@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Assignment 1 And 2">
+    <parameter name="Browser" value="chrome" />
+    <parameter name="url" value="https://www.facebook.com/"/>
+    <test name="Test suite 1 - FaceBook status">
+        <classes>
+            <class name="FaceBook.VerifyStatusUpdate"/>
+        </classes>
+    </test>
+
+</suite>

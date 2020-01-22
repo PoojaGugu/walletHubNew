@@ -1,0 +1,521 @@
+10 Jan 2020 23:43:25  INFO logger - --------------------------------------
+11 Jan 2020 17:28:20  INFO logger - --------------------------------------
+11 Jan 2020 17:32:31  INFO logger - --------------------------------------
+11 Jan 2020 17:51:18  INFO logger - --------------------------------------
+11 Jan 2020 17:52:28  INFO logger - --------------------------------------
+11 Jan 2020 17:54:38  INFO logger - --------------------------------------
+11 Jan 2020 17:57:07  INFO logger - --------------------------------------
+11 Jan 2020 18:03:35  INFO logger - --------------------------------------
+11 Jan 2020 18:03:37  INFO logger - Created the  driver Object
+11 Jan 2020 18:03:37  INFO logger - Running login test
+11 Jan 2020 18:05:22  INFO logger - --------------------------------------
+11 Jan 2020 18:05:39  INFO logger - Created the  driver Object
+11 Jan 2020 18:05:53  INFO logger - Running login test
+11 Jan 2020 18:12:46  INFO logger - --------------------------------------
+11 Jan 2020 18:12:55  INFO logger - Created the  driver Object
+11 Jan 2020 18:12:55  INFO logger - Running login test
+11 Jan 2020 18:15:14  INFO logger - --------------------------------------
+11 Jan 2020 18:15:16  INFO logger - Created the  driver Object
+11 Jan 2020 18:15:16  INFO logger - Running login test
+11 Jan 2020 18:20:28  INFO logger - --------------------------------------
+11 Jan 2020 18:20:37  INFO logger - Created the  driver Object
+11 Jan 2020 18:20:37  INFO logger - Running login test
+11 Jan 2020 18:22:33  INFO logger - --------------------------------------
+11 Jan 2020 18:22:44  INFO logger - Created the  driver Object
+11 Jan 2020 18:22:44  INFO logger - Running login test
+17 Jan 2020 13:06:36  INFO logger - --------------------------------------
+17 Jan 2020 13:06:37  INFO logger - Created the  driver Object
+17 Jan 2020 13:06:37  INFO logger - Running login test
+17 Jan 2020 13:07:42  INFO logger - --------------------------------------
+17 Jan 2020 13:07:57  INFO logger - Created the  driver Object
+17 Jan 2020 13:07:57  INFO logger - Running login test
+17 Jan 2020 13:17:52  INFO logger - --------------------------------------
+17 Jan 2020 13:17:54  INFO logger - Created the  driver Object
+17 Jan 2020 13:17:54  INFO logger - Running login test
+17 Jan 2020 13:18:05  INFO logger - Verified the login
+17 Jan 2020 14:34:52  INFO logger - --------------------------------------
+17 Jan 2020 14:34:57  INFO logger - Created the  driver Object
+17 Jan 2020 14:34:57  INFO logger - Running login test
+17 Jan 2020 14:35:43  INFO logger - ClassName :IntegrationTests.Screens.LogIn
+17 Jan 2020 14:35:43  INFO logger - MethodName :findElement
+17 Jan 2020 14:35:43  INFO logger - Exception :Element not foundBy.xpath: //*[@title='English (US)']
+17 Jan 2020 14:35:43  INFO logger - -----------------------------------------------------------------------------------
+17 Jan 2020 14:36:02  INFO logger - --------------------------------------
+17 Jan 2020 14:36:03  INFO logger - Created the  driver Object
+17 Jan 2020 14:36:03  INFO logger - Running login test
+17 Jan 2020 14:37:20  INFO logger - Verified the login
+17 Jan 2020 16:02:09  INFO logger - --------------------------------------
+17 Jan 2020 16:02:11  INFO logger - Created the  driver Object
+17 Jan 2020 16:02:11  INFO logger - Running login test
+17 Jan 2020 16:05:00  INFO logger - --------------------------------------
+17 Jan 2020 16:05:01  INFO logger - Created the  driver Object
+17 Jan 2020 16:05:01  INFO logger - Running login test
+17 Jan 2020 16:07:28  INFO logger - --------------------------------------
+17 Jan 2020 16:07:29  INFO logger - Created the  driver Object
+17 Jan 2020 16:07:29  INFO logger - Running login test
+17 Jan 2020 16:08:24  INFO logger - --------------------------------------
+17 Jan 2020 16:08:25  INFO logger - Created the  driver Object
+17 Jan 2020 16:08:25  INFO logger - Running login test
+17 Jan 2020 16:10:14  INFO logger - Verified the login
+17 Jan 2020 16:19:53  INFO logger - --------------------------------------
+17 Jan 2020 16:19:55  INFO logger - Created the  driver Object
+17 Jan 2020 16:19:55  INFO logger - Running login test
+17 Jan 2020 16:24:12  INFO logger - --------------------------------------
+17 Jan 2020 16:24:14  INFO logger - Created the  driver Object
+17 Jan 2020 16:24:14  INFO logger - Running login test
+17 Jan 2020 16:26:22  INFO logger - --------------------------------------
+17 Jan 2020 16:26:24  INFO logger - Created the  driver Object
+17 Jan 2020 16:26:24  INFO logger - Running login test
+17 Jan 2020 16:31:54  INFO logger - --------------------------------------
+17 Jan 2020 16:31:56  INFO logger - Created the  driver Object
+17 Jan 2020 16:31:56  INFO logger - Running login test
+17 Jan 2020 16:40:09  INFO logger - --------------------------------------
+17 Jan 2020 16:40:10  INFO logger - Created the  driver Object
+17 Jan 2020 16:40:10  INFO logger - Running login test
+17 Jan 2020 16:43:15  INFO logger - --------------------------------------
+17 Jan 2020 16:43:17  INFO logger - Created the  driver Object
+17 Jan 2020 16:43:17  INFO logger - Running login test
+17 Jan 2020 16:57:19  INFO logger - --------------------------------------
+17 Jan 2020 16:57:20  INFO logger - Created the  driver Object
+17 Jan 2020 16:57:20  INFO logger - Running login test
+17 Jan 2020 17:00:38  INFO logger - --------------------------------------
+17 Jan 2020 17:00:43  INFO logger - Created the  driver Object
+17 Jan 2020 17:00:43  INFO logger - Running login test
+17 Jan 2020 17:01:51  INFO logger - --------------------------------------
+17 Jan 2020 17:01:52  INFO logger - Created the  driver Object
+17 Jan 2020 17:01:53  INFO logger - Running login test
+17 Jan 2020 17:07:56  INFO logger - --------------------------------------
+17 Jan 2020 17:07:58  INFO logger - Created the  driver Object
+17 Jan 2020 17:07:58  INFO logger - Running login test
+17 Jan 2020 18:49:45  INFO logger - --------------------------------------
+17 Jan 2020 18:49:47  INFO logger - Created the  driver Object
+17 Jan 2020 18:49:47  INFO logger - Running login test
+17 Jan 2020 18:57:38  INFO logger - --------------------------------------
+17 Jan 2020 18:57:40  INFO logger - Created the  driver Object
+17 Jan 2020 18:57:40  INFO logger - Running login test
+17 Jan 2020 18:58:39  INFO logger - --------------------------------------
+17 Jan 2020 18:58:47  INFO logger - Created the  driver Object
+17 Jan 2020 18:58:47  INFO logger - Running login test
+17 Jan 2020 19:00:31  INFO logger - --------------------------------------
+17 Jan 2020 19:01:04  INFO logger - Created the  driver Object
+17 Jan 2020 19:01:04  INFO logger - Running login test
+17 Jan 2020 19:03:10  INFO logger - --------------------------------------
+17 Jan 2020 19:03:37  INFO logger - Created the  driver Object
+17 Jan 2020 19:03:37  INFO logger - Running login test
+17 Jan 2020 19:05:46  INFO logger - --------------------------------------
+17 Jan 2020 19:10:36  INFO logger - --------------------------------------
+17 Jan 2020 19:11:02  INFO logger - Created the  driver Object
+17 Jan 2020 19:11:02  INFO logger - Running login test
+17 Jan 2020 19:17:25  INFO logger - --------------------------------------
+17 Jan 2020 19:18:13  INFO logger - Created the  driver Object
+17 Jan 2020 19:18:13  INFO logger - Running login test
+17 Jan 2020 19:20:09  INFO logger - --------------------------------------
+17 Jan 2020 19:20:11  INFO logger - Created the  driver Object
+17 Jan 2020 19:20:11  INFO logger - Running login test
+17 Jan 2020 19:20:59  INFO logger - Verified the login
+17 Jan 2020 21:41:23  INFO logger - --------------------------------------
+17 Jan 2020 21:41:25  INFO logger - Created the  driver Object
+17 Jan 2020 21:41:29  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 21:41:30  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 21:41:30  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 21:41:30  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 21:41:45  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 21:42:31  INFO logger - --------------------------------------
+17 Jan 2020 21:42:32  INFO logger - Created the  driver Object
+17 Jan 2020 21:42:37  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 21:42:38  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 21:42:38  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 21:42:38  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 21:43:17  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 21:44:39  INFO logger - --------------------------------------
+17 Jan 2020 21:44:40  INFO logger - Created the  driver Object
+17 Jan 2020 21:44:44  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 21:44:46  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 21:44:46  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 21:44:46  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 21:44:59  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 21:45:11  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 21:45:21  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 22:27:30  INFO logger - --------------------------------------
+17 Jan 2020 22:27:31  INFO logger - Created the  driver Object
+17 Jan 2020 22:28:53  INFO logger - --------------------------------------
+17 Jan 2020 22:28:54  INFO logger - Created the  driver Object
+17 Jan 2020 22:28:59  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 22:29:01  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 22:29:01  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 22:29:01  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 22:29:11  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 22:29:11  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 22:29:15  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 22:36:10  INFO logger - --------------------------------------
+17 Jan 2020 22:36:12  INFO logger - Created the  driver Object
+17 Jan 2020 22:36:17  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 22:36:19  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 22:36:19  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 22:36:19  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 22:37:24  INFO logger - --------------------------------------
+17 Jan 2020 22:37:26  INFO logger - Created the  driver Object
+17 Jan 2020 22:37:31  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 22:37:33  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 22:37:33  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 22:37:33  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 22:38:20  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 22:38:32  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 22:38:43  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 22:40:32  INFO logger - --------------------------------------
+17 Jan 2020 22:40:34  INFO logger - Created the  driver Object
+17 Jan 2020 22:40:38  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 22:40:40  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 22:40:40  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 22:40:40  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 22:42:02  INFO logger - --------------------------------------
+17 Jan 2020 22:42:03  INFO logger - Created the  driver Object
+17 Jan 2020 22:42:08  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 22:42:10  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 22:42:10  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 22:42:10  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 22:43:56  INFO logger - --------------------------------------
+17 Jan 2020 22:43:57  INFO logger - Created the  driver Object
+17 Jan 2020 22:44:02  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 22:44:06  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 22:44:06  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 22:44:06  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 22:44:28  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 22:44:38  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 22:44:51  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 22:46:56  INFO logger - --------------------------------------
+17 Jan 2020 22:46:57  INFO logger - Created the  driver Object
+17 Jan 2020 22:47:04  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 22:47:06  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 22:47:06  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 22:47:06  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 22:47:45  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 22:47:54  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 22:48:10  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 22:49:33  INFO logger - --------------------------------------
+17 Jan 2020 22:49:35  INFO logger - Created the  driver Object
+17 Jan 2020 22:49:44  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 22:49:47  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 22:49:47  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 22:49:47  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 22:52:49  INFO logger - --------------------------------------
+17 Jan 2020 22:52:50  INFO logger - Created the  driver Object
+17 Jan 2020 22:52:55  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 22:52:56  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 22:52:56  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 22:52:56  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 22:53:28  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 22:53:32  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 22:53:43  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 22:54:21  INFO logger - Verify  Status Posted meassge  validation is successfull
+17 Jan 2020 23:03:30  INFO logger - --------------------------------------
+17 Jan 2020 23:03:31  INFO logger - Created the  driver Object
+17 Jan 2020 23:03:37  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:03:40  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:03:40  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:03:40  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:12:37  INFO logger - --------------------------------------
+17 Jan 2020 23:12:39  INFO logger - Created the  driver Object
+17 Jan 2020 23:14:16  INFO logger - --------------------------------------
+17 Jan 2020 23:14:17  INFO logger - Created the  driver Object
+17 Jan 2020 23:14:22  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:14:25  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:14:25  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:14:25  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:18:26  INFO logger - --------------------------------------
+17 Jan 2020 23:18:28  INFO logger - Created the  driver Object
+17 Jan 2020 23:18:32  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:18:34  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:18:34  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:18:34  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:20:36  INFO logger - --------------------------------------
+17 Jan 2020 23:20:38  INFO logger - Created the  driver Object
+17 Jan 2020 23:20:44  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:20:47  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:20:47  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:20:47  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:21:47  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 23:21:59  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 23:22:10  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 23:22:23  INFO logger - Verify  Status Posted meassge  validation is successfull
+17 Jan 2020 23:22:27  INFO logger - Verified Successfully  status posted message validation is successfull
+17 Jan 2020 23:22:29  INFO logger - Verified the login
+17 Jan 2020 23:25:50  INFO logger - --------------------------------------
+17 Jan 2020 23:25:51  INFO logger - Created the  driver Object
+17 Jan 2020 23:25:57  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:25:59  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:25:59  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:25:59  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:26:08  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 23:26:08  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 23:26:08  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 23:26:09  INFO logger - Verify  Status Posted meassge  validation is successfull
+17 Jan 2020 23:27:41  INFO logger - --------------------------------------
+17 Jan 2020 23:27:42  INFO logger - Created the  driver Object
+17 Jan 2020 23:27:48  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:27:49  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:27:49  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:27:49  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:29:41  INFO logger - --------------------------------------
+17 Jan 2020 23:29:43  INFO logger - Created the  driver Object
+17 Jan 2020 23:29:48  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:29:49  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:29:49  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:29:49  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:29:58  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 23:29:58  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 23:29:59  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 23:29:59  INFO logger - Verify  Status Posted meassge  validation is successfull
+17 Jan 2020 23:31:48  INFO logger - --------------------------------------
+17 Jan 2020 23:31:49  INFO logger - Created the  driver Object
+17 Jan 2020 23:31:54  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:31:56  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:31:56  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:31:56  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:32:06  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 23:32:06  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 23:32:06  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 23:33:28  INFO logger - --------------------------------------
+17 Jan 2020 23:33:30  INFO logger - Created the  driver Object
+17 Jan 2020 23:33:34  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:33:36  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:33:36  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:33:36  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:35:14  INFO logger - --------------------------------------
+17 Jan 2020 23:35:16  INFO logger - Created the  driver Object
+17 Jan 2020 23:35:20  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:35:22  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:35:22  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:35:22  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:36:51  INFO logger - --------------------------------------
+17 Jan 2020 23:36:52  INFO logger - Created the  driver Object
+17 Jan 2020 23:37:00  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:37:05  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:37:05  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:37:05  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:37:28  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 23:37:32  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 23:37:35  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 23:40:51  INFO logger - --------------------------------------
+17 Jan 2020 23:40:52  INFO logger - Created the  driver Object
+17 Jan 2020 23:40:57  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:40:59  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:40:59  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:40:59  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:42:29  INFO logger - --------------------------------------
+17 Jan 2020 23:42:31  INFO logger - Created the  driver Object
+17 Jan 2020 23:42:35  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:42:37  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:42:37  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:42:37  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:42:44  INFO logger - Verified Login Successfully  validation is successfull
+17 Jan 2020 23:42:44  INFO logger - Verify  Status text area  validation is successfull
+17 Jan 2020 23:42:45  INFO logger - Verify  Status submit button  validation is successfull
+17 Jan 2020 23:42:45  INFO logger - Verify  Status Posted meassge  validation is successfull
+17 Jan 2020 23:45:20  INFO logger - --------------------------------------
+17 Jan 2020 23:45:22  INFO logger - Created the  driver Object
+17 Jan 2020 23:45:29  INFO logger - Verified Language Link validation is successfull
+17 Jan 2020 23:45:32  INFO logger - Verified username text field validation is successfull
+17 Jan 2020 23:45:32  INFO logger - Verified password text field validation is successfull
+17 Jan 2020 23:45:32  INFO logger - Verified Signin button field validation is successfull
+17 Jan 2020 23:46:42  INFO logger - --------------------------------------
+17 Jan 2020 23:46:43  INFO logger - Created the  driver Object
+17 Jan 2020 23:47:25  INFO logger - --------------------------------------
+17 Jan 2020 23:47:27  INFO logger - Created the  driver Object
+17 Jan 2020 23:48:16  INFO logger - --------------------------------------
+17 Jan 2020 23:48:17  INFO logger - Created the  driver Object
+17 Jan 2020 23:48:51  INFO logger - --------------------------------------
+17 Jan 2020 23:48:53  INFO logger - Created the  driver Object
+17 Jan 2020 23:58:05  INFO logger - --------------------------------------
+17 Jan 2020 23:58:07  INFO logger - Created the  driver Object
+17 Jan 2020 23:58:50  INFO logger - --------------------------------------
+17 Jan 2020 23:58:51  INFO logger - Created the  driver Object
+17 Jan 2020 23:59:26  INFO logger - --------------------------------------
+17 Jan 2020 23:59:27  INFO logger - Created the  driver Object
+18 Jan 2020 00:00:05  INFO logger - --------------------------------------
+18 Jan 2020 00:00:06  INFO logger - Created the  driver Object
+18 Jan 2020 00:03:14  INFO logger - --------------------------------------
+18 Jan 2020 00:03:15  INFO logger - Created the  driver Object
+18 Jan 2020 08:41:38  INFO logger - --------------------------------------
+18 Jan 2020 08:41:40  INFO logger - Created the  driver Object
+18 Jan 2020 08:42:48  INFO logger - --------------------------------------
+18 Jan 2020 08:42:50  INFO logger - Created the  driver Object
+18 Jan 2020 09:02:02  INFO logger - --------------------------------------
+18 Jan 2020 09:02:09  INFO logger - Created the  driver Object
+18 Jan 2020 09:02:10  INFO logger - Verified Language Link validation is successfull
+18 Jan 2020 09:02:12  INFO logger - Verified username text field validation is successfull
+18 Jan 2020 09:02:12  INFO logger - Verified password text field validation is successfull
+18 Jan 2020 09:02:12  INFO logger - Verified Signin button field validation is successfull
+18 Jan 2020 10:26:02  INFO logger - --------------------------------------
+18 Jan 2020 10:26:08  INFO logger - Created the  driver Object
+18 Jan 2020 10:26:08  INFO logger - Verified Language Link validation is successfull
+18 Jan 2020 10:26:10  INFO logger - Verified username text field validation is successfull
+18 Jan 2020 10:26:10  INFO logger - Verified password text field validation is successfull
+18 Jan 2020 10:26:10  INFO logger - Verified Signin button field validation is successfull
+18 Jan 2020 10:28:24  INFO logger - --------------------------------------
+18 Jan 2020 10:28:34  INFO logger - Created the  driver Object
+18 Jan 2020 10:28:49  INFO logger - Verified Language Link validation is successfull
+18 Jan 2020 10:28:57  INFO logger - Verified username text field validation is successfull
+18 Jan 2020 10:28:57  INFO logger - Verified password text field validation is successfull
+18 Jan 2020 10:28:57  INFO logger - Verified Signin button field validation is successfull
+18 Jan 2020 10:29:21  INFO logger - --------------------------------------
+18 Jan 2020 17:11:28  INFO logger - --------------------------------------
+18 Jan 2020 17:12:22  INFO logger - Created the  driver Object
+18 Jan 2020 17:15:59  INFO logger - --------------------------------------
+18 Jan 2020 17:16:12  INFO logger - Created the  driver Object
+18 Jan 2020 17:16:29  INFO logger - Verified log in Tab text field validation is successfull
+18 Jan 2020 17:16:36  INFO logger - Verified username text field validation is successfull
+18 Jan 2020 17:16:37  INFO logger - Verified Password text field validation is successfull
+18 Jan 2020 17:17:51  INFO logger - --------------------------------------
+18 Jan 2020 17:17:58  INFO logger - Created the  driver Object
+18 Jan 2020 17:17:58  INFO logger - Verified log in Tab text field validation is successfull
+18 Jan 2020 17:18:00  INFO logger - Verified username text field validation is successfull
+18 Jan 2020 17:18:00  INFO logger - Verified Password text field validation is successfull
+19 Jan 2020 23:01:27  INFO logger - --------------------------------------
+19 Jan 2020 23:01:39  INFO logger - Created the  driver Object
+19 Jan 2020 23:02:06  INFO logger - Verified Review Button validation is successfull
+19 Jan 2020 23:05:00  INFO logger - --------------------------------------
+19 Jan 2020 23:05:29  INFO logger - --------------------------------------
+19 Jan 2020 23:06:20  INFO logger - --------------------------------------
+19 Jan 2020 23:06:29  INFO logger - Created the  driver Object
+19 Jan 2020 23:06:40  INFO logger - Verified Review Button validation is successfull
+19 Jan 2020 23:08:09  INFO logger - --------------------------------------
+19 Jan 2020 23:08:58  INFO logger - --------------------------------------
+19 Jan 2020 23:09:52  INFO logger - --------------------------------------
+19 Jan 2020 23:13:38  INFO logger - --------------------------------------
+19 Jan 2020 23:14:10  INFO logger - --------------------------------------
+20 Jan 2020 19:00:15  INFO logger - --------------------------------------
+20 Jan 2020 19:00:37  INFO logger - Created the  driver Object
+20 Jan 2020 19:01:19  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 19:01:31  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 19:01:32  INFO logger - Verified Password text field validation is successfull
+20 Jan 2020 19:01:53  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 19:07:57  INFO logger - --------------------------------------
+20 Jan 2020 19:08:13  INFO logger - Created the  driver Object
+20 Jan 2020 19:08:31  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 19:08:41  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 19:08:43  INFO logger - Verified Password text field validation is successfull
+20 Jan 2020 19:09:02  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 19:10:45  INFO logger - --------------------------------------
+20 Jan 2020 19:10:56  INFO logger - Created the  driver Object
+20 Jan 2020 19:10:57  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 19:10:59  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 19:10:59  INFO logger - Verified Password text field validation is successfull
+20 Jan 2020 19:11:05  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 19:11:36  INFO logger - --------------------------------------
+20 Jan 2020 19:11:48  INFO logger - Created the  driver Object
+20 Jan 2020 19:11:49  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 19:11:51  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 19:11:51  INFO logger - Verified Password text field validation is successfull
+20 Jan 2020 19:11:55  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 19:16:36  INFO logger - --------------------------------------
+20 Jan 2020 19:16:43  INFO logger - Created the  driver Object
+20 Jan 2020 19:16:44  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 19:16:46  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 19:16:46  INFO logger - Verified Password text field validation is successfull
+20 Jan 2020 19:16:50  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 19:19:48  INFO logger - --------------------------------------
+20 Jan 2020 19:19:53  INFO logger - Created the  driver Object
+20 Jan 2020 19:19:53  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 19:19:57  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 19:19:57  INFO logger - Verified Password text field validation is successfull
+20 Jan 2020 19:20:02  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 19:20:23  INFO logger - Verifying the number of stars validation is successfull
+20 Jan 2020 19:20:35  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 19:29:30  INFO logger - --------------------------------------
+20 Jan 2020 19:29:38  INFO logger - Created the  driver Object
+20 Jan 2020 19:29:38  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 19:29:41  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 19:29:41  INFO logger - Verified Password text field validation is successfull
+20 Jan 2020 19:29:45  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 19:30:02  INFO logger - Verifying the number of stars validation is successfull
+20 Jan 2020 19:30:07  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 19:30:29  INFO logger - Verified Type Selected Policy validation is successfull
+20 Jan 2020 19:30:47  INFO logger - Verified Review Text Area validation is successfull
+20 Jan 2020 19:30:55  INFO logger - Verified Submit Button validation is successfull
+20 Jan 2020 19:50:43  INFO logger - --------------------------------------
+20 Jan 2020 19:50:52  INFO logger - Created the  driver Object
+20 Jan 2020 19:50:52  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 19:50:54  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 19:50:54  INFO logger - Verified Password text field validation is successfull
+20 Jan 2020 19:50:59  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 19:51:13  INFO logger - Verifying the number of stars validation is successfull
+20 Jan 2020 19:51:19  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 19:51:36  INFO logger - Verified Type Selected Policy validation is successfull
+20 Jan 2020 19:51:42  INFO logger - Verified Review Text Area validation is successfull
+20 Jan 2020 19:51:45  INFO logger - Verified Submit Button validation is successfull
+20 Jan 2020 19:52:01  INFO logger - Verify the title validation is successfull
+20 Jan 2020 19:52:04  INFO logger - Verify the title description validation is successfull
+20 Jan 2020 19:52:05  INFO logger - Verifying the number of stars validation is successfull
+20 Jan 2020 19:55:00  INFO logger - --------------------------------------
+20 Jan 2020 19:55:06  INFO logger - Created the  driver Object
+20 Jan 2020 19:55:06  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 19:55:08  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 19:55:08  INFO logger - Verified Password text field validation is successfull
+20 Jan 2020 19:55:14  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 20:00:11  INFO logger - --------------------------------------
+20 Jan 2020 20:00:18  INFO logger - Created the  driver Object
+20 Jan 2020 20:00:18  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 20:00:40  INFO logger - --------------------------------------
+20 Jan 2020 20:00:44  INFO logger - Created the  driver Object
+20 Jan 2020 20:00:44  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 20:00:58  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 20:00:58  INFO logger - Verified Password text field validation is successfull
+20 Jan 2020 20:01:06  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 20:01:46  INFO logger - Verifying the number of stars validation is successfull
+20 Jan 2020 20:01:48  INFO logger - Verify the review text validation is successfull
+20 Jan 2020 20:09:00  INFO logger - --------------------------------------
+20 Jan 2020 20:09:07  INFO logger - Created the  driver Object
+20 Jan 2020 20:09:07  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 20:22:06  INFO logger - --------------------------------------
+20 Jan 2020 20:22:44  INFO logger - Created the  driver Object
+20 Jan 2020 20:22:56  INFO logger - Verified Language Link validation is successfull
+20 Jan 2020 20:22:59  INFO logger - --------------------------------------
+20 Jan 2020 20:23:05  INFO logger - Created the  driver Object
+20 Jan 2020 20:23:50  INFO logger - --------------------------------------
+20 Jan 2020 20:25:43  INFO logger - --------------------------------------
+20 Jan 2020 20:25:50  INFO logger - Created the  driver Object
+20 Jan 2020 20:25:59  INFO logger - Verified Language Link validation is successfull
+20 Jan 2020 20:26:07  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 20:26:08  INFO logger - Verified password text field validation is successfull
+20 Jan 2020 20:26:08  INFO logger - Verified Signin button field validation is successfull
+20 Jan 2020 20:27:17  INFO logger - --------------------------------------
+20 Jan 2020 20:27:24  INFO logger - Created the  driver Object
+20 Jan 2020 20:27:27  INFO logger - Verified Language Link validation is successfull
+20 Jan 2020 20:28:17  INFO logger - --------------------------------------
+20 Jan 2020 20:28:23  INFO logger - Created the  driver Object
+20 Jan 2020 20:28:26  INFO logger - Verified Language Link validation is successfull
+20 Jan 2020 20:28:34  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 20:28:35  INFO logger - Verified password text field validation is successfull
+20 Jan 2020 20:28:35  INFO logger - Verified Signin button field validation is successfull
+20 Jan 2020 20:28:55  INFO logger - Verified Login Successfully  validation is successfull
+20 Jan 2020 20:29:04  INFO logger - Verify  Status text area  validation is successfull
+20 Jan 2020 20:29:07  INFO logger - Verify  Status submit button  validation is successfull
+20 Jan 2020 20:29:27  INFO logger - Verify  Status Posted meassge  validation is successfull
+20 Jan 2020 20:29:36  INFO logger - Verified Successfully  status posted message validation is successfull
+20 Jan 2020 20:29:37  INFO logger - Verified the login
+20 Jan 2020 20:34:16  INFO logger - --------------------------------------
+20 Jan 2020 20:37:54  INFO logger - --------------------------------------
+20 Jan 2020 20:38:02  INFO logger - Created the  driver Object
+20 Jan 2020 20:38:02  INFO logger - Verified Language Link validation is successfull
+20 Jan 2020 20:38:05  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 20:38:05  INFO logger - Verified password text field validation is successfull
+20 Jan 2020 20:38:05  INFO logger - Verified Signin button field validation is successfull
+20 Jan 2020 21:05:29  INFO logger - --------------------------------------
+20 Jan 2020 21:05:36  INFO logger - Created the  driver Object
+20 Jan 2020 21:05:36  INFO logger - Verified log in Tab text field validation is successfull
+20 Jan 2020 21:05:48  INFO logger - Verified username text field validation is successfull
+20 Jan 2020 21:05:49  INFO logger - Verified Password text field validation is successfull
+20 Jan 2020 21:06:00  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 21:06:13  INFO logger - Verifying the number of stars validation is successfull
+20 Jan 2020 21:06:18  INFO logger - Verified Review Button validation is successfull
+20 Jan 2020 21:06:33  INFO logger - Verified Type Selected Policy validation is successfull
+20 Jan 2020 21:06:42  INFO logger - Verified Review Text Area validation is successfull
+20 Jan 2020 21:06:45  INFO logger - Verified Submit Button validation is successfull
+20 Jan 2020 21:07:38  INFO logger - Verify the title validation is successfull
+20 Jan 2020 21:07:40  INFO logger - Verify the title description validation is successfull
+20 Jan 2020 21:07:41  INFO logger - Verifying the number of stars validation is successfull
+20 Jan 2020 21:07:42  INFO logger - Verify the review text validation is successfull
+20 Jan 2020 21:07:43  INFO logger - Verified Review Text Area validation is successfull
+20 Jan 2020 21:08:10  INFO logger - Verifying the number of stars validation is successfull
+20 Jan 2020 21:08:11  INFO logger - Verify the review text validation is successfull

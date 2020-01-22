@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Verify face book status post message]]>
+    </line>
+    <line>
+      <![CDATA[Verify Login method ]]>
+    </line>
+    <line>
+      <![CDATA[Verified Language Link validation is successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified username text field validation is successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified password text field validation is successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified Signin button field validation is successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified Login Successfully  validation is successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verify Login method  End]]>
+    </line>
+    <line>
+      <![CDATA[Verify post Message ]]>
+    </line>
+    <line>
+      <![CDATA[Verify  Status text area  validation is successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verify  Status submit button  validation is successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verify post Message End ]]>
+    </line>
+    <line>
+      <![CDATA[Verify poste status  Message ]]>
+    </line>
+    <line>
+      <![CDATA[Verify  Status Posted meassge  validation is successfull]]>
+    </line>
+    <line>
+      <![CDATA[Verified Successfully  status posted message validation is successfull]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-01-20T20:28:17 GST" name="Assignment 1 And 2" finished-at="2020-01-20T20:29:42 GST" duration-ms="85217">
+    <groups>
+    </groups>
+    <test started-at="2020-01-20T20:28:17 GST" name="Test suite 1 - FaceBook status" finished-at="2020-01-20T20:29:42 GST" duration-ms="85217">
+      <class name="FaceBook.VerifyStatusUpdate">
+        <test-method is-config="true" signature="createDriver(java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:FaceBook.VerifyStatusUpdate@17776a8]" started-at="2020-01-20T20:28:17 GST" name="createDriver" finished-at="2020-01-20T20:28:23 GST" duration-ms="5886" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.facebook.com/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void FaceBook.VerifyStatusUpdate.LoginVerification(java.util.HashMap) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method is-config="true" signature="instantiateHelpers(java.lang.String, java.lang.String)[pri:0, instance:FaceBook.VerifyStatusUpdate@17776a8]" started-at="2020-01-20T20:28:23 GST" name="instantiateHelpers" finished-at="2020-01-20T20:28:23 GST" duration-ms="23" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.facebook.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiateHelpers -->
+        <test-method signature="LoginVerification(java.util.HashMap)[pri:0, instance:FaceBook.VerifyStatusUpdate@17776a8]" started-at="2020-01-20T20:28:23 GST" name="LoginVerification" data-provider="FormsData" finished-at="2020-01-20T20:29:42 GST" duration-ms="78770" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{userName=AddUserName, execute =Y, Password=AddPassword, status=Hello World}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Verify face book status post message]]>
+            </line>
+            <line>
+              <![CDATA[Verify Login method ]]>
+            </line>
+            <line>
+              <![CDATA[Verified Language Link validation is successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified username text field validation is successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified password text field validation is successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified Signin button field validation is successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified Login Successfully  validation is successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verify Login method  End]]>
+            </line>
+            <line>
+              <![CDATA[Verify post Message ]]>
+            </line>
+            <line>
+              <![CDATA[Verify  Status text area  validation is successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verify  Status submit button  validation is successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verify post Message End ]]>
+            </line>
+            <line>
+              <![CDATA[Verify poste status  Message ]]>
+            </line>
+            <line>
+              <![CDATA[Verify  Status Posted meassge  validation is successfull]]>
+            </line>
+            <line>
+              <![CDATA[Verified Successfully  status posted message validation is successfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginVerification -->
+      </class> <!-- FaceBook.VerifyStatusUpdate -->
+    </test> <!-- Test suite 1 - FaceBook status -->
+  </suite> <!-- Assignment 1 And 2 -->
+</testng-results>

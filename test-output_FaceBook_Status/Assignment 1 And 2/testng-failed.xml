@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Assignment 1 And 2]" guice-stage="DEVELOPMENT">
+  <parameter name="url" value="https://www.facebook.com/"/>
+  <parameter name="Browser" value="chrome"/>
+  <test thread-count="5" name="Test suite 1 - FaceBook status(failed)">
+    <classes>
+      <class name="FaceBook.VerifyStatusUpdate">
+        <methods>
+          <include name="instantiateHelpers"/>
+          <include name="createDriver"/>
+          <include name="LoginVerification"/>
+        </methods>
+      </class> <!-- FaceBook.VerifyStatusUpdate -->
+    </classes>
+  </test> <!-- Test suite 1 - FaceBook status(failed) -->
+</suite> <!-- Failed suite [Assignment 1 And 2] -->
